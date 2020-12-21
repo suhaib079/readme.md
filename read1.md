@@ -1,7 +1,3 @@
-hello everyone my name is suhaib emad i finished the collage this year as a mechnical enginner 
-table of content 
-<table>
-
 coder computer 
 Linux Tutorial will focus on command line which is a text based interface to the system that will allow u to enter command to the computer by typing them on the keyboard and feedback will be as a text the best thing about it its easy to use first thing they gonna ask u to do is  command then a command line u typed them in the same first line after that . now in the next 2-5 line u will see the output of your command then u can start with other command if there wasn't any error .of course if u have a long command u need to learn how navigate between them , there are alot oh them but the first one you need to know is pwd It tells you what your current or present working directory is. u also have is which will show u the List of contents of a directory, there's more command of course but i just wanna give some example .another important thing u need to is called paths which means to get to a particular file or directory on the system, there are 2 type of paths absolute and relative  .
 u have to know the difference between a file and a folder .

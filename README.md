@@ -1,3 +1,9 @@
+my name is suhaib emad am a meachnical engineer 
+object|link
+------|-----
+read1|https://suhaib079.github.io/readme.md/read1
+
+
 growth mindset 
 it mean that  fundamental abilities can be developed through perseverance and effort by samply keep learing with an open mind and working hard and dont anything let you down 
 of coures u gonna face alot of challnges for example when you not in the right mind set and has a proplem it wont be easy for you to slove and u  immediately goona quet 
