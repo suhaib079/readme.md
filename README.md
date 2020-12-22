@@ -2,7 +2,7 @@ my name is suhaib emad am a meachnical engineer
 object|link
 ------|-----
 read1|https://suhaib079.github.io/readme.md/read1
-
+readfor|https://suhaib079.github.io/readme.md/readfor
 
 growth mindset 
 it mean that  fundamental abilities can be developed through perseverance and effort by samply keep learing with an open mind and working hard and dont anything let you down 
