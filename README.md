@@ -3,6 +3,7 @@ object|link
 ------|-----
 read1|[page1](https://suhaib079.github.io/readme.md/read1)
 readfor|[page2](https://suhaib079.github.io/readme.md/readfor)
+read6|[page3](https://suhaib079.github.io/readme.md/read6)
 
 growth mindset 
 it mean that  fundamental abilities can be developed through perseverance and effort by samply keep learing with an open mind and working hard and dont anything let you down 
