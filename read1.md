@@ -5,7 +5,7 @@ folder is like a bath  and  u can find another file and folder in it but file u 
 Learning Markdown
 its a way to style text on the web which u can form all type of writing , also u can add alot of things like images ,list , code ,
 
-and code .
+
 for the list u can make them ordered, nonordered , u can add images by simply add the link for it .
 gethub gives u additional set of useful features like table and emojis
 btw gethub is a great website which can help u alot  heres a link of a video that u can watch https://pages.github.com/ (Links to an external site.)
